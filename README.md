@@ -7,4 +7,4 @@ The ability to perceive the shape and motion of hands can be a vital component i
 OpenCV is the huge open-source library for the computer vision, machine learning, and image processing and now it plays a major role in real-time operation which is very important in today’s systems. By using it, one can process images and videos to identify objects, faces, or even handwriting of a human.
 Likewise, MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media.
 
-See my blog to understand my approach towards the project. 
+See my [blog](https://medium.com/artificialis/hand-tracking-with-opencv-computer-vision-project-2-artificial-intelligence-d129d36e6133) to understand my approach towards the project. 
